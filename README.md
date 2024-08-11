@@ -1,4 +1,4 @@
-                                                                Map Border Detection
+                                                    Map Border Detection
 
 Overview:
 
