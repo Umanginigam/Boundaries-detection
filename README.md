@@ -1,4 +1,4 @@
-                                                                            Map Border Detection
+                                                                Map Border Detection
 
 Overview:
 Map Border Detection is a project designed to detect and outline the borders of countries, states, or other regions in map images. This tool can be used for a variety of applications, such as geographic analysis, automated cartography, and map-based data visualization.
